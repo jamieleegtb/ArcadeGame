@@ -1,6 +1,6 @@
-#**Udacity FEND Nanodegree Arcade Game**
+# Udacity FEND Nanodegree Arcade Game
 
-###**Frogger Game Description**
+### Frogger Game Description
 Frogger is a classic video game which was introduced by Konami in 1981 as a one player or two player games. The game's objective is to move a frog from the bottom to top and overcome the obstacles that come in your way.
 
 As a part of Project 4 assignment for FEND Nanodegree, we cloned a basic version of it.
