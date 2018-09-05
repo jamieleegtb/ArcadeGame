@@ -5,6 +5,12 @@ Frogger is a classic video game which was introduced by Konami in 1981 as a one 
 
 As a part of Project 4 assignment for FEND Nanodegree, we cloned a basic version of it.
 
+**Installation**
+* Download or clone files from GitHub repository.
+* Open *index.hmtl* file on your browser...
+* ...and play!
+
+
 ![Arcade Game](https://d17h27t6h515a5.cloudfront.net/topher/2017/June/5931c951_frogger/frogger.png)
 
 **Basic Functionality**
